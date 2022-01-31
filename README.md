@@ -8,7 +8,7 @@ Applied datasets are ICU, MNIST and CIFAR-10.
 ### contents
 #### 1. Ex1: Linear regression (Fisher's linear discriminant), Logistic regression and perceptrons (w/o third party pachage).
 #### 2. Ex2: k-nearsest neighbors (KNN) and multilayer perceptron (MLP).
-#### 3. Ex3: support vector machine (SVM)
+#### [3. Ex3: support vector machine (SVM)](https://github.com/MaxActionWang/MachineLearning_course/tree/main/Ex3_submit_wmx)
 #### 4. Ex4: feature selectino, Lasso regression and random forest
 #### 5. Ex5: Bayesian decision
 #### 6. Ex6: K-means clustering
