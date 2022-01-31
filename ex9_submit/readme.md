@@ -193,7 +193,7 @@ zstd                      1.4.9                h19a0ad4_0    defaults
 
 Codes generated with the help of friends and online sources.
 
-王敏行 id：2018012386
+Max Wang
 
 wangmx18@mails.tsinghua.edu.cn
 
